@@ -1,0 +1,4 @@
+{
+"prefix": "prefixo", // prefixo do seu bot que deverá ser utilizado antes do comando (ex: .play)
+"token": "token" // gere em https://discord.com/developers/applications/
+}
