@@ -22,7 +22,8 @@ Caso tenha algum problema utilizando o bot, sinta-se livre para me mandar uma me
 # Setup
 ```js
 - npm install
-- Editar o config.json
+- Editar o config.json com o prefixo desejado
+- Criar um arquivo `.env` seguindo o exemplo de `.env.example`
 - Iniciar o BOT e começar a festa 😁
 ```  
 
